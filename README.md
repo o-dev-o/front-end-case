@@ -13,7 +13,7 @@ npm install
 When it's complete run
 
 ```bash
-npm run dev
+npm run start
 ```
 
 to run your local server.
