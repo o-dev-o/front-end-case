@@ -1,0 +1,15 @@
+<div class="user-wrapper">
+  <div class="user-list-wrapper">
+    <div class="user-in-list" *ngFor="let user of users">
+      {{ user["name"] }}
+    </div>
+  </div>
+  <div class="user-details-wrapper">
+    👋 The details could go here when a user is clicked.
+    But hey - it's up to you!
+
+    {{instructions}}
+
+    
+  </div>
+</div>

@@ -1,0 +1,18 @@
+.user-wrapper {
+    display: flex;
+}
+
+.user-list-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+}
+
+.user-in-list {
+    padding: 2rem 3rem;
+    background-color: antiquewhite;
+}
+
+.user-details-wrapper {
+    padding: 2rem;
+}
